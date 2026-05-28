@@ -47,7 +47,7 @@ I'm a passionate Software Engineer focused on building high-performance backend 
 
 ### 🛠️ Featured Projects
 
-#### 🤖 [Telegram AI ServiceDesk Bot](https://github.com/toogrikk/telegram-ai-servicedesk) 
+#### ⚡ [Telegram AI ServiceDesk Bot](https://github.com/toogrikk/telegram-ai-servicedesk) 
 > An intelligent customer service automation agent powered by local AI, dynamic RAG, and computer vision.
 * **Backend**: Python, FastAPI, Asyncio, SQLAlchemy (PostgreSQL).
 * **AI & Search**: Ollama (Llama 3.2 Vision, nomic-embed-text), ChromaDB (Vector Search).
@@ -55,7 +55,7 @@ I'm a passionate Software Engineer focused on building high-performance backend 
 * **Control Center**: React-based dashboard with fully interactive glassmorphic Live Markdown Editor & user roles management.
 * **Status**: ⚡ Fully deployed and production-tested.
 
-#### 🍽️ [E-Restaurant Ecosystem](https://github.com/toogrikk/e-restaurant-backend) `Work in Progress ⏳`
+#### 🍽️ [E-Restaurant Ecosystem]([https://github.com/toogrikk/e-restaurant-backend](https://github.com/toogrikk/-offee-shop-web)) `Work in Progress ⏳`
 > A full-scale restaurant automation ecosystem connecting clients, waiters, and kitchen teams.
 * **Backend**: Clean REST API architecture built with high-performance Node.js / Express or Python.
 * **Frontend**: Highly responsive restaurant web platform with React.
