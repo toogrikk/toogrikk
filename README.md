@@ -55,7 +55,7 @@ I'm a passionate Software Engineer focused on building high-performance backend 
 * **Control Center**: React-based dashboard with fully interactive glassmorphic Live Markdown Editor & user roles management.
 * **Status**: ⚡ Fully deployed and production-tested.
 
-#### 🍽️ [E-Restaurant Ecosystem]([https://github.com/toogrikk/e-restaurant-backend](https://github.com/toogrikk/-offee-shop-web)) `Work in Progress ⏳`
+#### 🍽️ [E-Restaurant Ecosystem](https://github.com/toogrikk/-offee-shop-web) `Work in Progress ⏳`
 > A full-scale restaurant automation ecosystem connecting clients, waiters, and kitchen teams.
 * **Backend**: Clean REST API architecture built with high-performance Node.js / Express or Python.
 * **Frontend**: Highly responsive restaurant web platform with React.
