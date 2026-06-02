@@ -47,7 +47,7 @@ I'm a passionate Software Engineer focused on building high-performance backend 
 
 ### 🛠️ Featured Projects
 
-#### ⚡ [Telegram AI ServiceDesk Bot](https://github.com/toogrikk/telegram-ai-servicedesk) 
+#### ⚡ [AI-Assistant](https://github.com/toogrikk/AI-Assistant)  
 > An intelligent customer service automation agent powered by local AI, dynamic RAG, and computer vision.
 * **Backend**: Python, FastAPI, Asyncio, SQLAlchemy (PostgreSQL).
 * **AI & Search**: Ollama (Llama 3.2 Vision, nomic-embed-text), ChromaDB (Vector Search).
